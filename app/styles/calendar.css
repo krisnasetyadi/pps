@@ -1,0 +1,7 @@
+.rbc-event{
+    background-color: #0065FF;
+}
+
+.rbc-event.rbc-selected{
+    background-color: #0453CC;
+}
